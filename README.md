@@ -1,2 +1,2 @@
-# Deep Learning AI - Tutorials Collection
-Notebooks from courses from Deep Learning AI
+# Deep Learning AI - Carbon Aware Computing for GenAI Developers
+Notebooks from the short course offered by DeeplearningAI
